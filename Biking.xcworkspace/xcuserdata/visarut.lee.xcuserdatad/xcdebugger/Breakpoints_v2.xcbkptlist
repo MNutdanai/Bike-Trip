@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Biking/Contoller/Trip/CreateTrip/CreateTripInvite/CreateTripInviteViewController.swift"
+            timestampString = "540227268.853147"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "sendTrip(Trip_leader:Trip_name:Trip_status:Trip_type:Trip_startName:Trip_startLat:Trip_startLong:Trip_endName:Trip_endLat:Trip_endLong:Trip_time:Trip_dateST:Trip_dateEND:Trip_detail:imageView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Biking/Contoller/Trip/CreateTrip/CreateTripInvite/CreateTripInviteViewController.swift"
+            timestampString = "540227268.8532521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "sendTrip(Trip_leader:Trip_name:Trip_status:Trip_type:Trip_startName:Trip_startLat:Trip_startLong:Trip_endName:Trip_endLat:Trip_endLong:Trip_time:Trip_dateST:Trip_dateEND:Trip_detail:imageView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Biking/Contoller/Trip/DetailTrip/DetailTripViewController.swift"
+            timestampString = "541003893.819934"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "367"
+            endingLineNumber = "367"
+            landmarkName = "sendComment(Trip_id:User_id:CommTrip_detail:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in Biking.DetailTripViewController.sendComment(Trip_id: Swift.String, User_id: Swift.String, CommTrip_detail: Swift.String) -&gt; ()"
+                  moduleName = "Biking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/visarut.lee/Desktop/Project/biketrip_nsp/Biking/Contoller/Trip/DetailTrip/DetailTripViewController.swift"
+                  timestampString = "543511234.811878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "367"
+                  endingLineNumber = "367"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in Biking.DetailTripViewController.sendComment(Trip_id: Swift.String, User_id: Swift.String, CommTrip_detail: Swift.String) -&gt; ()"
+                  moduleName = "Biking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/visarut.lee/Desktop/Project/biketrip_nsp/Biking/Contoller/Trip/DetailTrip/DetailTripViewController.swift"
+                  timestampString = "543511234.815776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "367"
+                  endingLineNumber = "367"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Biking/Contoller/ProfileDetail/ProfileDetailViewController.swift"
+            timestampString = "541003893.820313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "sendUpdateUserProfile(User_id:User_fullName:User_wate:User_height:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Biking/AppDelegate.swift"
+            timestampString = "543511233.741408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
